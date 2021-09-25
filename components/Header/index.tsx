@@ -62,7 +62,7 @@ const Header = () => {
           Artista verificado
         </div>
         <h1>The Beatles</h1>
-        <small>25.596.165 ouvintes mensais</small>
+        <small>25.557.460 ouvintes mensais</small>
       </Content>
       <Linear />
       <Bg />
